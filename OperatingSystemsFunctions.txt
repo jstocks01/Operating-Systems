@@ -6,3 +6,5 @@ Keyboard language selector.  This allows users to change the characters availabl
 to switch to different langauge choices.  This selector allows the user to be able to have fun in their character choices while typing
 and additionally allows users to choose different less used character choices like emojis.
 
+Set-up image as background function.  I change my picture almost daily.  I screen capture the picture I want to use and turn
+that picture into a jpg that I will use as my new background.  You right-click on the picture and choose to set that picture as the background.
