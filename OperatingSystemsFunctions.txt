@@ -1,0 +1,3 @@
+Accessing bluetooth allows me to connect to podcasts and music.  It allows me to connect to bluetooth speakers around my house.  
+I connect it to make phone calls.  You connect the bluetooth by going to the bluetooth settings in your device.  
+You ensure your bluetooth setting is on in pair mode.  Then you select the device you are attempting to pair to.
