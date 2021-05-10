@@ -1,3 +1,8 @@
 Accessing bluetooth allows me to connect to podcasts and music.  It allows me to connect to bluetooth speakers around my house.  
 I connect it to make phone calls.  You connect the bluetooth by going to the bluetooth settings in your device.  
 You ensure your bluetooth setting is on in pair mode.  Then you select the device you are attempting to pair to.
+
+Keyboard language selector.  This allows users to change the characters available in the keyboard layout.  This also allows users
+to switch to different langauge choices.  This selector allows the user to be able to have fun in their character choices while typing
+and additionally allows users to choose different less used character choices like emojis.
+
